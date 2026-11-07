@@ -1,11 +1,8 @@
-<!-- CLEAN UNBOXED HERO SECTION (NO BOXES AROUND NAME/SVG) -->
+<br/>
+
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="46%" valign="middle" align="center" style="border: none; padding: 0;">
-      <img src="./portrait.svg" width="100%" alt="vanshjainexe terminal portrait" />
-    </td>
-    <td width="4%" style="border: none;">&nbsp;</td>
-    <td width="50%" valign="middle" align="center" style="border: none; padding: 0;">
+    <td width="100%" valign="middle" align="center" style="border: none; padding: 0;">
       <h1 style="margin: 0 0 4px 0; font-size: 38px; font-weight: 800; letter-spacing: -1px; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">VANSH JAIN</h1>
       <p style="margin: 0 0 16px 0; font-size: 13px; font-weight: 600; letter-spacing: 1.5px; color: #8b949e; text-transform: uppercase;">
         Mumbai, India
@@ -26,7 +23,7 @@
 
 <br/><br/>
 
-<!-- 01 // THE STACK (RESTORED BOXED CONTAINER) -->
+<!-- 01 // THE STACK -->
 <table width="100%" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; border-collapse: separate; border-spacing: 0;">
   <tr>
     <td align="center" style="padding: 24px;">
@@ -54,7 +51,7 @@
 
 <br/><br/>
 
-<!-- 02 // WHAT I'M BUILDING NOW (RESTORED BOXED CONTAINER) -->
+<!-- 02 // WHAT I'M BUILDING NOW -->
 <table width="100%" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; border-collapse: separate; border-spacing: 0;">
   <tr>
     <td align="left" style="padding: 24px;">
@@ -80,81 +77,11 @@
 
 <br/><br/>
 
-<!-- 03 // SPEED TELEMETRY (REDESIGNED MONKEYTYPE HIGH-SIGNAL COMPACT CARDS & TABLE) -->
-<table width="100%" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; border-collapse: separate; border-spacing: 0;">
-  <tr>
-    <td align="left" style="padding: 24px;">
-      <div align="center">
-        <img src="https://img.shields.io/badge/03-MONKEYTYPE_%2F%2F_SPEED_TELEMETRY-D97706?style=for-the-badge&labelColor=0D1117&color=D97706" alt="03 // TYPING STATS" />
-      </div>
-      <br/>
-      <p style="margin: 0 0 16px 0; font-size: 15px; color: #c9d1d9;" align="center">
-        ⚡ <b>Level 230</b> &bull; Peak Velocity: <b>215 WPM</b> (10 Words) &bull; Top 1.5% (15s) &bull; Top 1% (60s)
-      </p>
-      
-      <div align="center" style="margin: 16px 0;">
-        <img width="100%" src="https://raw.githubusercontent.com/vanshjainexe/vanshjainexe/main/typing_activity.png" alt="Monkeytype Activity Graph" />
-      </div>
-
-      <div align="center" style="margin-top: 16px;">
-        <table width="100%" style="border-collapse: separate; border-spacing: 6px;">
-          <tr>
-            <td width="25%" style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px; text-align: center;">
-              <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">10 Words</div>
-              <div style="font-size: 18px; font-weight: 800; color: #eab308; margin: 2px 0;">215 WPM</div>
-              <div style="font-size: 11px; color: #c9d1d9;">100% Acc</div>
-            </td>
-            <td width="25%" style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px; text-align: center;">
-              <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">15 Seconds</div>
-              <div style="font-size: 18px; font-weight: 800; color: #eab308; margin: 2px 0;">175 WPM</div>
-              <div style="font-size: 11px; color: #c9d1d9;">100% Acc</div>
-            </td>
-            <td width="25%" style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px; text-align: center;">
-              <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">25 Words</div>
-              <div style="font-size: 18px; font-weight: 800; color: #eab308; margin: 2px 0;">164 WPM</div>
-              <div style="font-size: 11px; color: #c9d1d9;">100% Acc</div>
-            </td>
-            <td width="25%" style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px; text-align: center;">
-              <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">30 Seconds</div>
-              <div style="font-size: 18px; font-weight: 800; color: #eab308; margin: 2px 0;">152 WPM</div>
-              <div style="font-size: 11px; color: #c9d1d9;">97% Acc</div>
-            </td>
-          </tr>
-          <tr>
-            <td width="25%" style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px; text-align: center;">
-              <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">50 Words</div>
-              <div style="font-size: 18px; font-weight: 800; color: #eab308; margin: 2px 0;">150 WPM</div>
-              <div style="font-size: 11px; color: #c9d1d9;">97% Acc</div>
-            </td>
-            <td width="25%" style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px; text-align: center;">
-              <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">60 Seconds</div>
-              <div style="font-size: 18px; font-weight: 800; color: #eab308; margin: 2px 0;">148 WPM</div>
-              <div style="font-size: 11px; color: #c9d1d9;">96% Acc</div>
-            </td>
-            <td width="25%" style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px; text-align: center;">
-              <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">120 Seconds</div>
-              <div style="font-size: 18px; font-weight: 800; color: #eab308; margin: 2px 0;">128 WPM</div>
-              <div style="font-size: 11px; color: #c9d1d9;">94% Acc</div>
-            </td>
-            <td width="25%" style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px; text-align: center;">
-              <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">Global Standing</div>
-              <div style="font-size: 18px; font-weight: 800; color: #38bdf8; margin: 2px 0;">Top 1%</div>
-              <div style="font-size: 11px; color: #c9d1d9;">Elite Tier</div>
-            </td>
-          </tr>
-        </table>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/><br/>
-
-<!-- 04 // AWARDS & HONORS (RESTORED BOXED CONTAINER & COOL ICONS W/ BADGES) -->
+<!-- 03 // AWARDS & HONORS -->
 <table width="100%" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; border-collapse: separate; border-spacing: 0;">
   <tr>
     <td align="center" style="padding: 24px;">
-      <img src="https://img.shields.io/badge/04-AWARDS_%26_HONORS-B45309?style=for-the-badge&labelColor=0D1117&color=B45309" alt="04 // AWARDS" />
+      <img src="https://img.shields.io/badge/03-AWARDS_%26_HONORS-B45309?style=for-the-badge&labelColor=0D1117&color=B45309" alt="03 // AWARDS" />
       <br/><br/>
       <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
         <img src="https://img.shields.io/badge/🛡️_BSides_Mumbai_CTF-3rd_Place_Overall_(Team_DeVS)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
@@ -168,12 +95,12 @@
 
 <br/><br/>
 
-<!-- 05 // BIO & ORIGIN (RESTORED BOXED CONTAINER) -->
+<!-- 04 // BIO & ORIGIN -->
 <table width="100%" style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; border-collapse: separate; border-spacing: 0;">
   <tr>
     <td align="left" style="padding: 24px;">
       <div align="center">
-        <img src="https://img.shields.io/badge/05-BIO_%26_ORIGIN-047857?style=for-the-badge&labelColor=0D1117&color=047857" alt="05 // BIO" />
+        <img src="https://img.shields.io/badge/04-BIO_%26_ORIGIN-047857?style=for-the-badge&labelColor=0D1117&color=047857" alt="04 // BIO" />
       </div>
       <br/>
       <p style="font-size: 14px; line-height: 1.7; color: #c9d1d9; margin: 0 0 16px 0;">
