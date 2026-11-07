@@ -1,13 +1,17 @@
 <table width="100%" align="center">
   <tr>
-    <td width="42%" align="center" valign="middle">
+    <td width="48%" align="center" valign="middle">
       <img src="./portrait.svg" width="100%" alt="vanshjainexe terminal portrait" />
     </td>
-    <td width="58%" align="center" valign="middle">
+    <td width="52%" align="center" valign="middle">
       <h1 align="center">VANSH JAIN</h1>
       <p align="center"><b>MUMBAI, INDIA</b></p>
       <div align="center">
-        <img src="./badges.svg" width="100%" alt="Hacker, Systems Builder, Creative Artist, Typist 215 WPM, Security Research" />
+        <img src="https://img.shields.io/badge/HACKER-DC2626?style=flat-square&labelColor=0D1117&color=DC2626" />&nbsp;
+        <img src="https://img.shields.io/badge/SYSTEMS_BUILDER-2563EB?style=flat-square&labelColor=0D1117&color=2563EB" />&nbsp;
+        <img src="https://img.shields.io/badge/CREATIVE_ARTIST-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED" /><br/>
+        <img src="https://img.shields.io/badge/TYPIST_(215_WPM)-D97706?style=flat-square&labelColor=0D1117&color=D97706" />&nbsp;
+        <img src="https://img.shields.io/badge/SECURITY_RESEARCH-DB2777?style=flat-square&labelColor=0D1117&color=DB2777" />
       </div>
       <p align="center">────────────────────────</p>
       <p align="center">
