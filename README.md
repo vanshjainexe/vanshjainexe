@@ -1,23 +1,25 @@
-<br/>
-
-<img align="left" src="./portrait.svg" width="48%" alt="vanshjainexe terminal portrait" />
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-<h1 align="center">VANSH JAIN</h1>
-<p align="center"><b>MUMBAI, INDIA</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HACKER-DC2626?style=flat-square&labelColor=0D1117&color=DC2626" />&nbsp;
-  <img src="https://img.shields.io/badge/SYSTEMS_BUILDER-2563EB?style=flat-square&labelColor=0D1117&color=2563EB" />&nbsp;
-  <img src="https://img.shields.io/badge/CREATIVE_ARTIST-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED" /><br/>
-  <img src="https://img.shields.io/badge/TYPIST_(215_WPM)-D97706?style=flat-square&labelColor=0D1117&color=D97706" />&nbsp;
-  <img src="https://img.shields.io/badge/SECURITY_RESEARCH-DB2777?style=flat-square&labelColor=0D1117&color=DB2777" />
-</p>
-<p align="center">────────────────────────</p>
-<p align="center">
-  Systems architecture, sub-second AI voice pipelines, competitive programming, and visual engineering.
-</p>
-
-<br clear="all"/>
+<table width="100%">
+  <tr>
+    <td width="48%" align="center" valign="middle">
+      <img src="./portrait.svg" width="100%" alt="vanshjainexe terminal portrait" />
+    </td>
+    <td width="52%" align="center" valign="middle">
+      <h1 align="center">VANSH JAIN</h1>
+      <p align="center"><b>MUMBAI, INDIA</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HACKER-DC2626?style=flat-square&labelColor=0D1117&color=DC2626" />&nbsp;
+        <img src="https://img.shields.io/badge/SYSTEMS_BUILDER-2563EB?style=flat-square&labelColor=0D1117&color=2563EB" />&nbsp;
+        <img src="https://img.shields.io/badge/CREATIVE_ARTIST-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED" /><br/>
+        <img src="https://img.shields.io/badge/TYPIST_(215_WPM)-D97706?style=flat-square&labelColor=0D1117&color=D97706" />&nbsp;
+        <img src="https://img.shields.io/badge/SECURITY_RESEARCH-DB2777?style=flat-square&labelColor=0D1117&color=DB2777" />
+      </p>
+      <p align="center">────────────────────────</p>
+      <p align="center">
+        Systems architecture, sub-second AI voice pipelines, competitive programming, and visual engineering.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
@@ -91,43 +93,18 @@
       <p align="center">
         ⚡ <b>Level 230</b> &bull; Peak Velocity: <b>215 WPM</b> (10 Words) &bull; Top 1.5% (15s) &bull; Top 1% (60s)
       </p>
-      <img width="100%" src="https://raw.githubusercontent.com/vanshjainexe/vanshjainexe/main/typing_activity.png" alt="Monkeytype Activity Graph" />
-      <br/><br/>
-      <table align="center">
-        <tr>
-          <th>Mode</th>
-          <th>10 Words</th>
-          <th>15 Sec</th>
-          <th>25 Words</th>
-          <th>30 Sec</th>
-          <th>50 Words</th>
-          <th>60 Sec</th>
-          <th>120 Sec</th>
-          <th>Global Standing</th>
-        </tr>
-        <tr align="center">
-          <td><b>WPM</b></td>
-          <td><b>215</b></td>
-          <td><b>175</b></td>
-          <td><b>164</b></td>
-          <td><b>152</b></td>
-          <td><b>150</b></td>
-          <td><b>148</b></td>
-          <td><b>128</b></td>
-          <td><b>Top 1%</b></td>
-        </tr>
-        <tr align="center">
-          <td><b>Accuracy</b></td>
-          <td>100%</td>
-          <td>100%</td>
-          <td>100%</td>
-          <td>97%</td>
-          <td>97%</td>
-          <td>96%</td>
-          <td>94%</td>
-          <td>Elite Tier</td>
-        </tr>
-      </table>
+      <p align="center">
+      <img src="https://img.shields.io/badge/10_WORDS-215_WPM_%C2%B7_100%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" />
+      <img src="https://img.shields.io/badge/15_SEC-175_WPM_%C2%B7_100%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" />
+      <img src="https://img.shields.io/badge/25_WORDS-164_WPM_%C2%B7_100%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" />
+      <img src="https://img.shields.io/badge/30_SEC-152_WPM_%C2%B7_97%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" />
+      <img src="https://img.shields.io/badge/50_WORDS-150_WPM_%C2%B7_97%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" />
+      <img src="https://img.shields.io/badge/60_SEC-148_WPM_%C2%B7_96%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" />
+      <img src="https://img.shields.io/badge/120_SEC-128_WPM_%C2%B7_94%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" />
+      </p>
+      <p align="center">
+      <img src="https://img.shields.io/badge/GLOBAL_STANDING-TOP_1%25_%C2%B7_ELITE_TIER-161B22?style=for-the-badge&labelColor=0D1117&color=38BDF8" />
+      </p>
       <br/>
     </td>
   </tr>
