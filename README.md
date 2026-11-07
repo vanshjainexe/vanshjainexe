@@ -1,24 +1,28 @@
-<!-- SEAMLESS FLUID HERO SECTION (NO BOXING OR PINCHING) -->
-<div align="center">
-  <img src="./portrait.svg" width="100%" alt="vanshjainexe terminal portrait" />
-</div>
-
-<div align="center" style="margin-top: 28px;">
-  <h1 style="margin: 0 0 4px 0; font-size: 44px; font-weight: 800; letter-spacing: -1px; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">VANSH JAIN</h1>
-  <p style="margin: 0 0 16px 0; font-size: 14px; font-weight: 600; letter-spacing: 1.5px; color: #8b949e; text-transform: uppercase;">
-    Mumbai, India
-  </p>
-  <p align="center" style="margin: 0 0 20px 0; line-height: 2.2;">
-    <img src="https://img.shields.io/badge/HACKER-DC2626?style=flat-square&labelColor=0D1117&color=DC2626" />&nbsp;
-    <img src="https://img.shields.io/badge/SYSTEMS_BUILDER-2563EB?style=flat-square&labelColor=0D1117&color=2563EB" />&nbsp;
-    <img src="https://img.shields.io/badge/CREATIVE_ARTIST-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED" />&nbsp;
-    <img src="https://img.shields.io/badge/TYPIST_(215_WPM)-D97706?style=flat-square&labelColor=0D1117&color=D97706" />&nbsp;
-    <img src="https://img.shields.io/badge/SECURITY_RESEARCH-DB2777?style=flat-square&labelColor=0D1117&color=DB2777" />
-  </p>
-  <p align="center" style="font-size: 14px; line-height: 1.6; color: #8b949e; max-width: 650px; margin: 0 auto;">
-    Systems architecture, sub-second AI voice pipelines, competitive programming, and visual engineering.
-  </p>
-</div>
+<!-- UNBOXED TWO-COLUMN SPLIT HERO SECTION -->
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="46%" valign="middle" align="center" style="border: none; padding: 0;">
+      <img src="./portrait.svg" width="100%" alt="vanshjainexe terminal portrait" />
+    </td>
+    <td width="4%" style="border: none;">&nbsp;</td>
+    <td width="50%" valign="middle" align="center" style="border: none; padding: 0;">
+      <h1 style="margin: 0 0 4px 0; font-size: 38px; font-weight: 800; letter-spacing: -1px; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">VANSH JAIN</h1>
+      <p style="margin: 0 0 16px 0; font-size: 13px; font-weight: 600; letter-spacing: 1.5px; color: #8b949e; text-transform: uppercase;">
+        Mumbai, India
+      </p>
+      <p align="center" style="margin: 0 0 20px 0; line-height: 2.2;">
+        <img src="https://img.shields.io/badge/HACKER-DC2626?style=flat-square&labelColor=0D1117&color=DC2626" />&nbsp;
+        <img src="https://img.shields.io/badge/SYSTEMS_BUILDER-2563EB?style=flat-square&labelColor=0D1117&color=2563EB" />&nbsp;
+        <img src="https://img.shields.io/badge/CREATIVE_ARTIST-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED" />&nbsp;
+        <img src="https://img.shields.io/badge/TYPIST_(215_WPM)-D97706?style=flat-square&labelColor=0D1117&color=D97706" />&nbsp;
+        <img src="https://img.shields.io/badge/SECURITY_RESEARCH-DB2777?style=flat-square&labelColor=0D1117&color=DB2777" />
+      </p>
+      <p align="center" style="font-size: 14px; line-height: 1.6; color: #8b949e; margin: 0;">
+        Systems architecture, sub-second AI voice pipelines, competitive programming, and visual engineering.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
@@ -68,7 +72,7 @@
 
 <br/><br/>
 
-<!-- 03 // SPEED TELEMETRY -->
+<!-- 03 // SPEED TELEMETRY (CLEAN UNBOXED CARD LAYOUT) -->
 <div align="center">
   <img src="https://img.shields.io/badge/03-MONKEYTYPE_%2F%2F_SPEED_TELEMETRY-D97706?style=for-the-badge&labelColor=0D1117&color=D97706" alt="03 // TYPING STATS" />
 </div>
@@ -82,87 +86,58 @@
     <img width="100%" src="https://raw.githubusercontent.com/vanshjainexe/vanshjainexe/main/typing_activity.png" alt="Monkeytype Activity Graph" />
   </div>
 
-  <table width="100%" style="font-size: 13px; text-align: center; border-collapse: collapse; margin-top: 16px;">
-    <tr style="background: #161b22; color: #8b949e; border-bottom: 1px solid #30363d;">
-      <th style="padding: 8px;">Mode</th>
-      <th style="padding: 8px;">WPM</th>
-      <th style="padding: 8px;">Raw</th>
-      <th style="padding: 8px;">Acc</th>
-      <th style="padding: 8px;">Consistency</th>
-      <th style="padding: 8px;">Date</th>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;"><b>10 Words</b></td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d; color: #eab308; font-weight: bold;">215 WPM</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">215</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">100%</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">88%</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d; color: #8b949e;">23 Mar 2026</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;"><b>15 Seconds</b></td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d; color: #eab308; font-weight: bold;">175 WPM</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">175</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">100%</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">88%</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d; color: #8b949e;">17 Mar 2026</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;"><b>25 Words</b></td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d; color: #eab308; font-weight: bold;">164 WPM</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">164</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">100%</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">72%</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d; color: #8b949e;">22 Feb 2026</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;"><b>30 Seconds</b></td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d; color: #eab308; font-weight: bold;">152 WPM</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">159</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">97%</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">80%</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d; color: #8b949e;">10 Sep 2026</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;"><b>50 Words</b></td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d; color: #eab308; font-weight: bold;">150 WPM</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">158</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">97%</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">85%</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d; color: #8b949e;">12 Mar 2026</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;"><b>60 Seconds</b></td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d; color: #eab308; font-weight: bold;">148 WPM</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">155</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">96%</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d;">79%</td>
-      <td style="padding: 8px; border-bottom: 1px solid #21262d; color: #8b949e;">30 May 2026</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;"><b>120 Seconds</b></td>
-      <td style="padding: 8px; color: #eab308; font-weight: bold;">128 WPM</td>
-      <td style="padding: 8px;">135</td>
-      <td style="padding: 8px;">94%</td>
-      <td style="padding: 8px;">75%</td>
-      <td style="padding: 8px; color: #8b949e;">22 Feb 2026</td>
-    </tr>
-  </table>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin-top: 16px;">
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; text-align: center;">
+      <div style="font-size: 11px; color: #8b949e; text-transform: uppercase; font-weight: 600;">10 Words</div>
+      <div style="font-size: 20px; font-weight: 800; color: #eab308; margin: 4px 0;">215 WPM</div>
+      <div style="font-size: 12px; color: #c9d1d9;">100% Acc &bull; 88% Con</div>
+    </div>
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; text-align: center;">
+      <div style="font-size: 11px; color: #8b949e; text-transform: uppercase; font-weight: 600;">15 Seconds</div>
+      <div style="font-size: 20px; font-weight: 800; color: #eab308; margin: 4px 0;">175 WPM</div>
+      <div style="font-size: 12px; color: #c9d1d9;">100% Acc &bull; 88% Con</div>
+    </div>
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; text-align: center;">
+      <div style="font-size: 11px; color: #8b949e; text-transform: uppercase; font-weight: 600;">25 Words</div>
+      <div style="font-size: 20px; font-weight: 800; color: #eab308; margin: 4px 0;">164 WPM</div>
+      <div style="font-size: 12px; color: #c9d1d9;">100% Acc &bull; 72% Con</div>
+    </div>
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; text-align: center;">
+      <div style="font-size: 11px; color: #8b949e; text-transform: uppercase; font-weight: 600;">30 Seconds</div>
+      <div style="font-size: 20px; font-weight: 800; color: #eab308; margin: 4px 0;">152 WPM</div>
+      <div style="font-size: 12px; color: #c9d1d9;">97% Acc &bull; 80% Con</div>
+    </div>
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; text-align: center;">
+      <div style="font-size: 11px; color: #8b949e; text-transform: uppercase; font-weight: 600;">50 Words</div>
+      <div style="font-size: 20px; font-weight: 800; color: #eab308; margin: 4px 0;">150 WPM</div>
+      <div style="font-size: 12px; color: #c9d1d9;">97% Acc &bull; 85% Con</div>
+    </div>
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; text-align: center;">
+      <div style="font-size: 11px; color: #8b949e; text-transform: uppercase; font-weight: 600;">60 Seconds</div>
+      <div style="font-size: 20px; font-weight: 800; color: #eab308; margin: 4px 0;">148 WPM</div>
+      <div style="font-size: 12px; color: #c9d1d9;">96% Acc &bull; 79% Con</div>
+    </div>
+    <div style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; text-align: center;">
+      <div style="font-size: 11px; color: #8b949e; text-transform: uppercase; font-weight: 600;">120 Seconds</div>
+      <div style="font-size: 20px; font-weight: 800; color: #eab308; margin: 4px 0;">128 WPM</div>
+      <div style="font-size: 12px; color: #c9d1d9;">94% Acc &bull; 75% Con</div>
+    </div>
+  </div>
 </div>
 
 <br/><br/>
 
-<!-- 04 // AWARDS & HONORS -->
+<!-- 04 // AWARDS & HONORS (HORIZONTAL HIGH-SIGNAL BADGES) -->
 <div align="center">
   <img src="https://img.shields.io/badge/04-AWARDS_%26_HONORS-B45309?style=for-the-badge&labelColor=0D1117&color=B45309" alt="04 // AWARDS" />
 </div>
 <br/>
-<div align="center" style="max-width: 800px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <img src="https://img.shields.io/badge/BSides_Mumbai_CTF-3rd_Place_Overall_(Team_DeVS)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
-  <img src="https://img.shields.io/badge/InCTF_Junior_Finals-7th_Place_National_Finalist-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
-  <img src="https://img.shields.io/badge/TechTitansHackFest-3rd_Place_Winner_(OMEX)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
-  <img src="https://img.shields.io/badge/SOF_ICSO_Olympiad-Gold_Medal_of_Excellence_(Intl_Rank_400)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
-</div>
+<p align="center" style="line-height: 2.4;">
+  <img src="https://img.shields.io/badge/BSides_Mumbai_CTF-3rd_Place_Overall_(Team_DeVS)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/InCTF_Junior_Finals-7th_Place_National_Finalist-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TechTitansHackFest-3rd_Place_Winner_(OMEX)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SOF_ICSO_Olympiad-Gold_Medal_of_Excellence_(Rank_%231)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
+</p>
 
 <br/><br/>
 
