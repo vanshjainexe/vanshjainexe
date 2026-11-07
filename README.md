@@ -1,32 +1,23 @@
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="48%" align="center" valign="middle">
-      <img src="./portrait.svg" width="100%" alt="vanshjainexe terminal portrait" />
-    </td>
-    <td width="4%">&nbsp;</td>
-    <td width="48%" valign="middle" align="center">
-      <br/>
-      <h1 style="margin: 0 0 2px 0; font-size: 38px; font-weight: 800; letter-spacing: -1px; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">VANSH JAIN</h1>
-      <p style="margin: 0 0 12px 0; font-size: 13px; font-weight: 600; letter-spacing: 1px; color: #8b949e; text-transform: uppercase;">
-        Mumbai, India
-      </p>
-      <p align="center" style="margin: 0 0 16px 0; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/HACKER-DC2626?style=flat-square&labelColor=0D1117&color=DC2626" />&nbsp;
-        <img src="https://img.shields.io/badge/SYSTEMS_BUILDER-2563EB?style=flat-square&labelColor=0D1117&color=2563EB" />&nbsp;
-        <img src="https://img.shields.io/badge/CREATIVE_ARTIST-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED" />&nbsp;
-        <img src="https://img.shields.io/badge/TYPIST_(215_WPM)-D97706?style=flat-square&labelColor=0D1117&color=D97706" />&nbsp;
-        <img src="https://img.shields.io/badge/SECURITY_RESEARCH-DB2777?style=flat-square&labelColor=0D1117&color=DB2777" />
-      </p>
-      <hr style="border: 0; height: 1px; background: #30363d; margin: 16px 0;" />
-      <p align="center" style="font-size: 13px; line-height: 1.6; color: #8b949e; margin: 0;">
-        Systems architecture, sub-second AI voice pipelines, competitive programming, and visual engineering.
-      </p>
-      <br/>
-    </td>
-  </tr>
-</table>
+<img align="left" src="./portrait.svg" width="48%" alt="vanshjainexe terminal portrait" />
+
+<br/><br/><br/><br/><br/>
+<h1 align="center">VANSH JAIN</h1>
+<p align="center"><b>MUMBAI, INDIA</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HACKER-DC2626?style=flat-square&labelColor=0D1117&color=DC2626" />&nbsp;
+  <img src="https://img.shields.io/badge/SYSTEMS_BUILDER-2563EB?style=flat-square&labelColor=0D1117&color=2563EB" />&nbsp;
+  <img src="https://img.shields.io/badge/CREATIVE_ARTIST-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED" />&nbsp;
+  <img src="https://img.shields.io/badge/TYPIST_(215_WPM)-D97706?style=flat-square&labelColor=0D1117&color=D97706" />&nbsp;
+  <img src="https://img.shields.io/badge/SECURITY_RESEARCH-DB2777?style=flat-square&labelColor=0D1117&color=DB2777" />
+</p>
+<hr/>
+<p align="center">
+  Systems architecture, sub-second AI voice pipelines, competitive programming, and visual engineering.
+</p>
+
+<br clear="all"/>
 
 <br/><br/>
 
@@ -71,20 +62,16 @@
   <tr>
     <td align="left">
       <br/>
-      <div style="padding: 4px 12px;">
-        <h2 style="margin: 0 0 6px 0; font-size: 24px; font-weight: 800; color: #ffffff;">
-          XEMO
-        </h2>
-        <p style="margin: 0 0 10px 0;">
-          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />&nbsp;
-          <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />&nbsp;
-          <img src="https://img.shields.io/badge/Deepgram-1E1B4B?style=flat-square&logo=deepgram&logoColor=818CF8" />&nbsp;
-          <img src="https://img.shields.io/badge/Groq_LPU-431407?style=flat-square&logo=lightning&logoColor=FB923C" />
-        </p>
-        <p style="margin: 0; font-size: 14px; line-height: 1.7; color: #8b949e;">
-          A real-time AI intellectual speaking and voice debate platform. Engineered for sub-second vocal sparring using persistent bi-directional WebSockets, custom C++ audio streaming logic ported from Python, Deepgram speech pipelines, and Groq LPU inference. Fully instrumented with PostHog analytics and shipped to production.
-        </p>
-      </div>
+      <h2>XEMO</h2>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Deepgram-1E1B4B?style=flat-square&logo=deepgram&logoColor=818CF8" />&nbsp;
+        <img src="https://img.shields.io/badge/Groq_LPU-431407?style=flat-square&logo=lightning&logoColor=FB923C" />
+      </p>
+      <p>
+        A real-time AI intellectual speaking and voice debate platform. Engineered for sub-second vocal sparring using persistent bi-directional WebSockets, custom C++ audio streaming logic ported from Python, Deepgram speech pipelines, and Groq LPU inference. Fully instrumented with PostHog analytics and shipped to production.
+      </p>
       <br/>
     </td>
   </tr>
@@ -99,60 +86,51 @@
     </th>
   </tr>
   <tr>
-    <td align="left">
+    <td align="center">
       <br/>
-      <div style="padding: 4px 12px;">
-        <p style="margin: 0 0 14px 0; font-size: 15px; color: #c9d1d9;" align="center">
-          ⚡ <b>Level 230</b> &bull; Peak Velocity: <b>215 WPM</b> (10 Words) &bull; Top 1.5% (15s) &bull; Top 1% (60s)
-        </p>
-        
-        <div align="center" style="margin: 16px 0;">
-          <img width="100%" src="https://raw.githubusercontent.com/vanshjainexe/vanshjainexe/main/typing_activity.png" alt="Monkeytype Activity Graph" />
-        </div>
+      <p align="center">
+        ⚡ <b>Level 230</b> &bull; Peak Velocity: <b>215 WPM</b> (10 Words) &bull; Top 1.5% (15s) &bull; Top 1% (60s)
+      </p>
 
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 10px; margin-top: 16px;">
-          <div style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; text-align: center;">
-            <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">10 Words</div>
-            <div style="font-size: 18px; font-weight: 800; color: #eab308; margin: 2px 0;">215 WPM</div>
-            <div style="font-size: 11px; color: #c9d1d9;">100% Acc</div>
-          </div>
-          <div style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; text-align: center;">
-            <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">15 Seconds</div>
-            <div style="font-size: 18px; font-weight: 800; color: #eab308; margin: 2px 0;">175 WPM</div>
-            <div style="font-size: 11px; color: #c9d1d9;">100% Acc</div>
-          </div>
-          <div style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; text-align: center;">
-            <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">25 Words</div>
-            <div style="font-size: 18px; font-weight: 800; color: #eab308; margin: 2px 0;">164 WPM</div>
-            <div style="font-size: 11px; color: #c9d1d9;">100% Acc</div>
-          </div>
-          <div style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; text-align: center;">
-            <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">30 Seconds</div>
-            <div style="font-size: 18px; font-weight: 800; color: #eab308; margin: 2px 0;">152 WPM</div>
-            <div style="font-size: 11px; color: #c9d1d9;">97% Acc</div>
-          </div>
-          <div style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; text-align: center;">
-            <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">50 Words</div>
-            <div style="font-size: 18px; font-weight: 800; color: #eab308; margin: 2px 0;">150 WPM</div>
-            <div style="font-size: 11px; color: #c9d1d9;">97% Acc</div>
-          </div>
-          <div style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; text-align: center;">
-            <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">60 Seconds</div>
-            <div style="font-size: 18px; font-weight: 800; color: #eab308; margin: 2px 0;">148 WPM</div>
-            <div style="font-size: 11px; color: #c9d1d9;">96% Acc</div>
-          </div>
-          <div style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; text-align: center;">
-            <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">120 Seconds</div>
-            <div style="font-size: 18px; font-weight: 800; color: #eab308; margin: 2px 0;">128 WPM</div>
-            <div style="font-size: 11px; color: #c9d1d9;">94% Acc</div>
-          </div>
-          <div style="background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; text-align: center;">
-            <div style="font-size: 10px; color: #8b949e; text-transform: uppercase; font-weight: 700;">Global Standing</div>
-            <div style="font-size: 18px; font-weight: 800; color: #38bdf8; margin: 2px 0;">Top 1%</div>
-            <div style="font-size: 11px; color: #c9d1d9;">Elite Tier</div>
-          </div>
-        </div>
-      </div>
+      <img width="100%" src="https://raw.githubusercontent.com/vanshjainexe/vanshjainexe/main/typing_activity.png" alt="Monkeytype Activity Graph" />
+
+      <br/><br/>
+
+      <table align="center">
+        <tr>
+          <th>Mode</th>
+          <th>10 Words</th>
+          <th>15 Sec</th>
+          <th>25 Words</th>
+          <th>30 Sec</th>
+          <th>50 Words</th>
+          <th>60 Sec</th>
+          <th>120 Sec</th>
+          <th>Global Standing</th>
+        </tr>
+        <tr align="center">
+          <td><b>WPM</b></td>
+          <td><b>215</b></td>
+          <td><b>175</b></td>
+          <td><b>164</b></td>
+          <td><b>152</b></td>
+          <td><b>150</b></td>
+          <td><b>148</b></td>
+          <td><b>128</b></td>
+          <td><b>Top 1%</b></td>
+        </tr>
+        <tr align="center">
+          <td><b>Accuracy</b></td>
+          <td>100%</td>
+          <td>100%</td>
+          <td>100%</td>
+          <td>97%</td>
+          <td>97%</td>
+          <td>96%</td>
+          <td>94%</td>
+          <td>Elite Tier</td>
+        </tr>
+      </table>
       <br/>
     </td>
   </tr>
@@ -169,13 +147,11 @@
   <tr>
     <td align="center">
       <br/>
-      <div style="padding: 4px 12px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-        <img src="https://img.shields.io/badge/🛡️_BSides_Mumbai_CTF-3rd_Place_Overall_(Team_DeVS)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
-        <img src="https://img.shields.io/badge/🎯_InCTF_Junior_Finals-7th_Place_National_Finalist-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
-        <img src="https://img.shields.io/badge/⚡_TechTitansHackFest-3rd_Place_Winner_(OMEX)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
-        <img src="https://img.shields.io/badge/🏅_SOF_ICSO_Olympiad-Gold_Medal_of_Excellence_(Rank_%231)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
-      </div>
-      <br/>
+      <img src="https://img.shields.io/badge/🛡️_BSides_Mumbai_CTF-3rd_Place_Overall_(Team_DeVS)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
+      <img src="https://img.shields.io/badge/🎯_InCTF_Junior_Finals-7th_Place_National_Finalist-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
+      <img src="https://img.shields.io/badge/⚡_TechTitansHackFest-3rd_Place_Winner_(OMEX)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
+      <img src="https://img.shields.io/badge/🏅_SOF_ICSO_Olympiad-Gold_Medal_of_Excellence_(Rank_%231)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
+      <br/><br/>
     </td>
   </tr>
 </table>
@@ -191,14 +167,12 @@
   <tr>
     <td align="left">
       <br/>
-      <div style="padding: 4px 12px;">
-        <p style="font-size: 14px; line-height: 1.7; color: #c9d1d9; margin: 0 0 16px 0;">
-          I started writing code when I was 10 years old, driven entirely by the obsessive urge to build my own version of Jarvis from scratch. Long before software took over my life, I spent my childhood drawing for 10 hours a day—obsessing over human anatomy, lighting, and spatial perspective. That relentless visual foundation naturally bled into video editing, 3D motion design, and high-craft UI engineering.
-        </p>
-        <p style="font-size: 14px; line-height: 1.7; color: #c9d1d9; margin: 0;">
-          Right now, I am going deep into the mathematical foundations of computer science and competitive programming. When I'm not studying or pushing code, I'm conducting cybersecurity research, designing production-grade consumer mobile apps, and building systems at the absolute edge of performance.
-        </p>
-      </div>
+      <p>
+        I started writing code when I was 10 years old, driven entirely by the obsessive urge to build my own version of Jarvis from scratch. Long before software took over my life, I spent my childhood drawing for 10 hours a day—obsessing over human anatomy, lighting, and spatial perspective. That relentless visual foundation naturally bled into video editing, 3D motion design, and high-craft UI engineering.
+      </p>
+      <p>
+        Right now, I am going deep into the mathematical foundations of computer science and competitive programming. When I'm not studying or pushing code, I'm conducting cybersecurity research, designing production-grade consumer mobile apps, and building systems at the absolute edge of performance.
+      </p>
       <br/>
     </td>
   </tr>
