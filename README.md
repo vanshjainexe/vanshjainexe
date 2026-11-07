@@ -67,3 +67,51 @@
     <th align="left">
       <img src="https://img.shields.io/badge/02-WHAT_I'M_BUILDING_NOW-7C3AED?style=for-the-badge&labelColor=0D1117&color=6D28D9" alt="02 // BUILDING NOW" />
     </th>
+  </tr>
+  <tr>
+    <td align="left">
+      <br/>
+      <div style="padding: 4px 0;">
+        <h2 style="margin: 0 0 6px 0; font-size: 22px; font-weight: 700; color: #ffffff;">
+          XEMO &nbsp;<span style="font-size: 12px; font-weight: 500; padding: 2px 8px; background: #1f2937; border-radius: 4px; color: #38bdf8;">Google Play // JAINX</span>
+        </h2>
+        <p style="margin: 0; font-size: 14px; line-height: 1.6; color: #8b949e;">
+          A real-time AI intellectual speaking and voice debate platform. Engineered for sub-second vocal sparring using persistent bi-directional WebSockets, custom C++ audio streaming logic ported from Python, Deepgram speech pipelines, and Groq LPU inference. Fully instrumented with PostHog analytics and published on Google Play.
+        </p>
+      </div>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<table width="100%">
+  <tr>
+    <th align="left">
+      <img src="https://img.shields.io/badge/03-BIO_%26_ORIGIN-D97706?style=for-the-badge&labelColor=0D1117&color=B45309" alt="03 // BIO" />
+    </th>
+  </tr>
+  <tr>
+    <td align="left">
+      <br/>
+      <p style="font-size: 14px; line-height: 1.7; color: #c9d1d9; margin: 0 0 16px 0;">
+        I started writing code when I was 10 years old, driven entirely by the obsessive urge to build my own version of Jarvis from scratch. Long before software took over my life, I spent my childhood drawing for 10 hours a day—obsessing over human anatomy, lighting, and spatial perspective. That relentless visual foundation naturally bled into video editing, 3D motion design, and high-craft UI engineering.
+      </p>
+      <p style="font-size: 14px; line-height: 1.7; color: #c9d1d9; margin: 0;">
+        Right now, I am going deep into the mathematical foundations of computer science and competitive programming. When I'm not studying for JEE or pushing code, I'm conducting cybersecurity research, designing production-grade consumer mobile apps, and building systems at the absolute edge of performance.
+      </p>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/vanshjainexe">
+    <img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+<br/>
