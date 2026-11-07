@@ -91,11 +91,8 @@
       <p align="center">
         ⚡ <b>Level 230</b> &bull; Peak Velocity: <b>215 WPM</b> (10 Words) &bull; Top 1.5% (15s) &bull; Top 1% (60s)
       </p>
-
       <img width="100%" src="https://raw.githubusercontent.com/vanshjainexe/vanshjainexe/main/typing_activity.png" alt="Monkeytype Activity Graph" />
-
       <br/><br/>
-
       <table align="center">
         <tr>
           <th>Mode</th>
