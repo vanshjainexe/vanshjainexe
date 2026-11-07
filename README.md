@@ -2,17 +2,17 @@
 
 <img align="left" src="./portrait.svg" width="48%" alt="vanshjainexe terminal portrait" />
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 <h1 align="center">VANSH JAIN</h1>
 <p align="center"><b>MUMBAI, INDIA</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/HACKER-DC2626?style=flat-square&labelColor=0D1117&color=DC2626" />&nbsp;
   <img src="https://img.shields.io/badge/SYSTEMS_BUILDER-2563EB?style=flat-square&labelColor=0D1117&color=2563EB" />&nbsp;
-  <img src="https://img.shields.io/badge/CREATIVE_ARTIST-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED" />&nbsp;
+  <img src="https://img.shields.io/badge/CREATIVE_ARTIST-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED" /><br/>
   <img src="https://img.shields.io/badge/TYPIST_(215_WPM)-D97706?style=flat-square&labelColor=0D1117&color=D97706" />&nbsp;
   <img src="https://img.shields.io/badge/SECURITY_RESEARCH-DB2777?style=flat-square&labelColor=0D1117&color=DB2777" />
 </p>
-<hr/>
+<p align="center">────────────────────────</p>
 <p align="center">
   Systems architecture, sub-second AI voice pipelines, competitive programming, and visual engineering.
 </p>
@@ -60,16 +60,16 @@
     </th>
   </tr>
   <tr>
-    <td align="left">
+    <td align="center">
       <br/>
-      <h2>XEMO</h2>
-      <p>
+      <h2 align="center">XEMO</h2>
+      <p align="center">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Deepgram-1E1B4B?style=flat-square&logo=deepgram&logoColor=818CF8" />&nbsp;
         <img src="https://img.shields.io/badge/Groq_LPU-431407?style=flat-square&logo=lightning&logoColor=FB923C" />
       </p>
-      <p>
+      <p align="center">
         A real-time AI intellectual speaking and voice debate platform. Engineered for sub-second vocal sparring using persistent bi-directional WebSockets, custom C++ audio streaming logic ported from Python, Deepgram speech pipelines, and Groq LPU inference. Fully instrumented with PostHog analytics and shipped to production.
       </p>
       <br/>
@@ -162,12 +162,12 @@
     </th>
   </tr>
   <tr>
-    <td align="left">
+    <td align="center">
       <br/>
-      <p>
+      <p align="center">
         I started writing code when I was 10 years old, driven entirely by the obsessive urge to build my own version of Jarvis from scratch. Long before software took over my life, I spent my childhood drawing for 10 hours a day—obsessing over human anatomy, lighting, and spatial perspective. That relentless visual foundation naturally bled into video editing, 3D motion design, and high-craft UI engineering.
       </p>
-      <p>
+      <p align="center">
         Right now, I am going deep into the mathematical foundations of computer science and competitive programming. When I'm not studying or pushing code, I'm conducting cybersecurity research, designing production-grade consumer mobile apps, and building systems at the absolute edge of performance.
       </p>
       <br/>
