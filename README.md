@@ -1,3 +1,4 @@
+
 <br/>
 
 <table width="100%">
@@ -156,10 +157,10 @@
       <img src="https://img.shields.io/badge/04-AWARDS_%26_HONORS-B45309?style=for-the-badge&labelColor=0D1117&color=B45309" alt="04 // AWARDS" />
       <br/><br/>
       <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-        <img src="https://img.shields.io/badge/BSides_Mumbai_CTF-3rd_Place_Overall_(Team_DeVS)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
-        <img src="https://img.shields.io/badge/InCTF_Junior_Finals-7th_Place_National_Finalist-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
-        <img src="https://img.shields.io/badge/TechTitansHackFest-3rd_Place_Winner_(OMEX)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
-        <img src="https://img.shields.io/badge/SOF_ICSO_Olympiad-Gold_Medal_of_Excellence_(Rank_%231)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
+        <img src="https://img.shields.io/badge/🛡️_BSides_Mumbai_CTF-3rd_Place_Overall_(Team_DeVS)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
+        <img src="https://img.shields.io/badge/🎯_InCTF_Junior_Finals-7th_Place_National_Finalist-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
+        <img src="https://img.shields.io/badge/⚡_TechTitansHackFest-3rd_Place_Winner_(OMEX)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
+        <img src="https://img.shields.io/badge/🏅_SOF_ICSO_Olympiad-Gold_Medal_of_Excellence_(Rank_%231)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
       </div>
     </td>
   </tr>
