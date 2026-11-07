@@ -91,19 +91,16 @@
     <td align="center">
       <br/>
       <p align="center">
-        ⚡ <b>Level 230</b> &bull; Peak Velocity: <b>215 WPM</b> (10 Words) &bull; Top 1.5% (15s) &bull; Top 1% (60s)
-      </p>
-      <p align="center">
-      <img src="https://img.shields.io/badge/10_WORDS-215_WPM_%C2%B7_100%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" />
-      <img src="https://img.shields.io/badge/15_SEC-175_WPM_%C2%B7_100%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" />
-      <img src="https://img.shields.io/badge/25_WORDS-164_WPM_%C2%B7_100%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" />
-      <img src="https://img.shields.io/badge/30_SEC-152_WPM_%C2%B7_97%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" />
-      <img src="https://img.shields.io/badge/50_WORDS-150_WPM_%C2%B7_97%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" />
-      <img src="https://img.shields.io/badge/60_SEC-148_WPM_%C2%B7_96%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" />
-      <img src="https://img.shields.io/badge/120_SEC-128_WPM_%C2%B7_94%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" />
-      </p>
-      <p align="center">
-      <img src="https://img.shields.io/badge/GLOBAL_STANDING-TOP_1%25_%C2%B7_ELITE_TIER-161B22?style=for-the-badge&labelColor=0D1117&color=38BDF8" />
+      <img height="36" src="https://img.shields.io/badge/MONKEYTYPE-vanshxdpro-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" /><br/>
+      <img src="https://img.shields.io/badge/%E2%9A%A1_LEVEL_230-PEAK_VELOCITY_215_WPM_(10_WORDS)_%E2%80%A2_TOP_1.5%25_(15S)_%E2%80%A2_TOP_1%25_(60S)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" /><br/>
+      <img height="36" src="https://img.shields.io/badge/10_WORDS-215_WPM_%C2%B7_100%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" /><br/>
+      <img height="36" src="https://img.shields.io/badge/15_SEC-175_WPM_%C2%B7_100%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" /><br/>
+      <img height="36" src="https://img.shields.io/badge/25_WORDS-164_WPM_%C2%B7_100%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" /><br/>
+      <img height="36" src="https://img.shields.io/badge/30_SEC-152_WPM_%C2%B7_97%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" /><br/>
+      <img height="36" src="https://img.shields.io/badge/50_WORDS-150_WPM_%C2%B7_97%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" /><br/>
+      <img height="36" src="https://img.shields.io/badge/60_SEC-148_WPM_%C2%B7_96%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" /><br/>
+      <img height="36" src="https://img.shields.io/badge/120_SEC-128_WPM_%C2%B7_94%25-161B22?style=for-the-badge&labelColor=0D1117&color=EAB308" /><br/>
+      <img height="36" src="https://img.shields.io/badge/GLOBAL_STANDING-TOP_1%25_%C2%B7_ELITE_TIER-161B22?style=for-the-badge&labelColor=0D1117&color=38BDF8" />
       </p>
       <br/>
     </td>
@@ -121,10 +118,10 @@
   <tr>
     <td align="center">
       <br/>
-      <img src="https://img.shields.io/badge/🛡️_BSides_Mumbai_CTF-3rd_Place_Overall_(Team_DeVS)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
-      <img src="https://img.shields.io/badge/🎯_InCTF_Junior_Finals-7th_Place_National_Finalist-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
-      <img src="https://img.shields.io/badge/⚡_TechTitansHackFest-3rd_Place_Winner_(OMEX)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
-      <img src="https://img.shields.io/badge/🏅_SOF_ICSO_Olympiad-Gold_Medal_of_Excellence_(Rank_%231)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
+      <img height="40" src="https://img.shields.io/badge/🛡️_BSides_Mumbai_CTF-3rd_Place_Overall_(Team_DeVS)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" /><br/>
+      <img height="40" src="https://img.shields.io/badge/🎯_InCTF_Junior_Finals-7th_Place_National_Finalist-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" /><br/>
+      <img height="40" src="https://img.shields.io/badge/⚡_TechTitansHackFest-3rd_Place_Winner_(OMEX)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" /><br/>
+      <img height="40" src="https://img.shields.io/badge/🏅_SOF_ICSO_Olympiad-Gold_Medal_of_Excellence_(Rank_%231)-161B22?style=for-the-badge&labelColor=0D1117&color=D97706" />
       <br/><br/>
     </td>
   </tr>
