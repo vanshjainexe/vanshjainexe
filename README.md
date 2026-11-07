@@ -1,114 +1,190 @@
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="36%" align="center" valign="middle">
-        <pre style="font-family: monospace; font-size: 6px; line-height: 6px; color: #c9d1d9; background: #0d1117; padding: 12px; border-radius: 6px; border: 1px solid #30363d; margin: 0;">
-             .,:cccc::,.             
-          .,okXXXXXXXXXXko,.         
-        .cXXXXXXXXXXXXXXXXXXc.       
-       lXXXXXXXXXXXXXXXXXXXXXXl      
-     .dXXXXXXXXXXXXXXXXXXXXXXXXXd.   
-    .xXXXXXXXXXXXXXXXXXXXXXXXXXXXx.  
-    oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo  
-   .XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
-   xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx 
-   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-   KXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXK 
-   VXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXV 
-    XOXkxxooollllllooooxxkOXOXOXOXOX 
-    .odkkkkkkkkkkkkkkkkkkkkkxd:.     
-       .,cllllllllllllllllc,.        
-          ................           
-        .,cooooooooooooooc,.         
-      .dXXXXXXXXXXXXXXXXXXXXd.     
-     .XXXXXXXXXXXXXXXXXXXXXXXX.    
-     oXXXXXXXXXXXXXXXXXXXXXXXXo    
-     xXXXXXXXXXXXXXXXXXXXXXXXXx    
-     XXXXXXXXXXXXXXXXXXXXXXXXXX    
-        .okXXXXXXXXXXXXXXko.       
-           .,cccccccccccc,.          
-</pre>
-      </td>
-      <td width="64%" valign="middle" style="padding-left: 24px;">
-        <h1 style="margin: 0 0 8px 0; font-size: 32px; font-weight: 800; letter-spacing: -0.5px; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">VANSH JAIN</h1>
-        <p style="margin: 0 0 16px 0; font-size: 14px; color: #8b949e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-          <b>STUDIO JAINX</b> // Mumbai, India
-        </p>
-        <p style="margin: 0; font-size: 13px; line-height: 1.6; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-          Hacker &bull; Systems Builder &bull; Creative Artist &bull; Competitive Typist (215 WPM) &bull; Security Researcher
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### `01 // BIO & ORIGIN`
-
-<p style="font-size: 14px; line-height: 1.7; color: #c9d1d9;">
-  I started coding at 10 years old, building my first rudimentary voice assistant (Jarvis) back then. Over the years, that curiosity evolved into a deep fixation on systems, low-level architecture, and raw creation. 
-</p>
-<p style="font-size: 14px; line-height: 1.7; color: #c9d1d9;">
-  Before software, I spent my childhood drawing 10 hours a day—obsessed with visual composition, anatomy, and structure—which later bled into video editing, motion design, and UI aesthetics. Right now, I'm diving deep down into mathematics, competitive programming, and cybersecurity research, while building high-performance consumer applications and exploring things at the edge of what's possible.
-</p>
-
----
-
-### `02 // THE STACK (A - Z)`
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,ts,js,html,css,bash,postgres,react,nextjs,nodejs,express,supabase,tailwind,vite,vercel,pytorch,linux,kali,git,github,vscode,blender,ae,pr&perline=13&theme=dark" alt="Tech Stack" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-161B22?style=flat-square&logo=react&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Expo_SDK-161B22?style=flat-square&logo=expo&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/WebSockets-161B22?style=flat-square&logo=socketdotio&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Deepgram_Nova--2_|_Aura--2-161B22?style=flat-square&logo=deepgram&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Groq_LPU-161B22?style=flat-square&logo=lightning&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/RevenueCat-161B22?style=flat-square&logo=revenuecat&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/PostHog-161B22?style=flat-square&logo=posthog&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Google_Play_Console-161B22?style=flat-square&logo=googleplay&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Cursor_IDE-161B22?style=flat-square&logo=visualstudiocode&logoColor=ffffff" />
-</p>
-
----
-
-### `03 // WHAT I'M BUILDING NOW`
-
 <table width="100%">
   <tr>
-    <td width="100%" valign="top">
-      <b>XEMO</b> &nbsp;<code>Google Play // JAINX</code><br/>
-      <sub>Real-time AI intellectual speaking and voice debate platform. Engineered for zero-lag vocal sparring using persistent bi-directional WebSockets, custom C++ audio buffer optimization, Deepgram STT/TTS, and Groq LPU inference. Built with complete telemetry instrumentation and native mobile distribution.</sub>
+    <td width="42%" align="center" valign="middle">
+<pre>
+<sub><sub>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::--:--
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.:-::-=--::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::............----==--
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::....::-:.....::-:::::=--==
+::::::::::::::::::::::::::::::::::::::::-===-::--=---::::::::::::::.............::-==----------=---=
+::::::::::::::::::::::::::::::::-=====*+*****++===---:..:.:::::....-=..........:::-=+++++++=++==+==+
+::::::::::::::::::::::::::::::-**+=-=+#****====*##*#*+==:::........:*---:.......==++=-+***++-=-+-+*+
++++:-::::::---:----===--:--==####****+++*++++==+*===+*##*+=+=+-:---------:::..:---=+=*+=+*++*=--+=-=
+**+-+-::-::--===+++++==--+###%%%**%%##*#****=-=++-=##***=++==+=-.::::---=::.....:+++****=***=-:=+==-
+######*######***++=+*++=*%#%%%#%%#%%%%%#####*+#*++*#*++*+*+==+*+::.:-::-::::...::==+++=+***++++*+=--
+##*************##+*#===*##%#####%##**#@@@%@%##%##*****+**==++***+=====---::......:---=++*+*++*+*+=++
+**+************##***+=-#%%%%%%%%%%%%#*%@@@@@%%%%%%###**+++++=-=+++================++**+=-===+*++**+*
+++++++++++++**+#+=+++=*%%%%@%%%%@%#**%@@@@@@@@@@@@@@@#*+#+*#+-+=+**==-===-----=+=+=++=+===****##+***
+=====+==++++++******+*%%%@@%@@@@@%%%#%@@@@@@@@@@@@@@%%*#+#%%***+*==--=----==++=+***+*===*****+***###
+--::+#######******+**%%@@@@@@@@%@%@@@@@@@@@@@@@@%@%@%#%@@%%@%%%%#=-------=+=++-.:=++++++***#**#*#%%*
+:::------=+*****+***%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*%@@@@%%%%%%**+=--===-++++=++=+++********#*##%#
+=-:::::::---:-==+++#%@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%##%@@@@@@@%#+=++====+****+*##***++******####%#*#
+++##+-:---:..:::::-+%%@@@@@@@@@@@@@@@@@@@@%%%%@%%#*#%*%@@@@@%%##*++=-=**+++****#*#**+****#***###%###
+====+=+#*=------:.::*@@@@@@@@@@@@@@%%@@@%%#####%%%%###*###*****++===-++*****#*****###*######*#*%%###
+=======****++*+=----=%@@@@@@@@@%%%%%%@@@%##*******#**++++==+==+++==--+*****#############**#####%#***
+=============-==+*#**#%@@@@%%@%%#####%%##**********++====----=++===-==**###**######%#***#**#%###*+##
+==+===++======-===+**#%@@@@@@%%%#**++++++++++++++++==-:::....-+*=--++**###%%###%#%%%%#*#***###*#+**+
+=====++++====----=+*=*#%@@@@@%##*+++++++++++++++++==-:::......=#+==++*#####%%%%%@@###**####%#*##%##*
+==++=+++++===----=+++*=+@@@@%*++++++++++++=+++++++==-:........:=+=-::+#%%%%%####%%##%########*####**
+==+===+++======++=++++=+*@@@*+++++++++++++==++++++++==------::.:==-=+=###%%#**###*#%%%#****##*%%###*
+=-=====--====+====++++++*%%#+++*######******+++++*##*#%%%#*+=-:.---==+%**###%#%#*###%#******##*%%%**
+-----==-----------====*#+*#+++##%%@@@@@%%##**++++++*##%%%##**+====--+#%###*%%@#*#*#**+**##**########
+-------=-----------==--**+#%%#*++++*%%%%%%%#*#**+*#***##%+==-:.-#%*=*+**##%%%%++##+*#######**#%#****
+-------===--:-----====--+*%%*==++**=*##*##*#%%#+**=++**+==::....+#=#%#####%%%##**=**#%####**########
+--=--=--=--:--------==--=+***===++++***##***@#++#+..-=+==-.....:*==####%%%@%%##%%##+*#%%****##%#####
+--=------------------==---++#====++++++**+*%#+=-=#:...:::......-+:*#%##%%#%###*#*#*+*+++******###++*
+.......::................:++++====++++++++*#+==-:=#::::........+-.................................::
+==+++++**+++***++********+++++#======+++++%+==-.::-*-:::::..:-+:=*********#*************************
+##%#%%%##########*#*#*****#*+=+=+%%##%%%**+===-:..:::===--:.....#################***#***##****#**###
+#####%%#########*###########*+++====++++*+=====-:.:--===--:....+##################*#######*########%
+#**#%##*################%#%%%#++++=+=++++++**+++==-..:-=-::::::######################*++#######%%%%@
+%##########%%%%#*########%%@@@#+++++++++++++++++=:....:--:::::+#############%#####****++#####%%%%%%%
+####%######**##+**#######%@@@@@*+++++++***++*++++-::::===::::=#########**######*#*+***+*##%%##%%%%%%
+########*####*#*########%@@@@@@%*++++++**##**#***=-:-==+-::.=#+*#################**#***%%%%%##%%%%%@
+#####*###########*######@@@@@@@@%#*+++++++******+=:.....::.=%#+++#####*##########**####%%%%%%%%#%%%%
+*#######*#*#****##**###@@@@@@@@@@@%****++++**++=+-::......=#%%*+===--+*###############%%%%%%%%%%%%%%
+*#######*###***###*#%@@@@@@@@@@@@@@@#**+++++++++++=:.....+%#%%%#+======--+#########%##%%%%%%%%%%%%%%
+*####**##******#%%%%@@@@@@@@@@@@@@@@@%#**++++++++=-:....:+%%%#*#%#+=+==-----=#####%##%%%%%%%%%%%%%%%
++***##**##*#%@@@@@@@@@@@@@@@@@@@@@@@@@%##*+++++++=::....=*%%%%%**##+========--+#%%%%#%%%%%#%%%%%%%%%
+++***##**##%%%@@@@@@@@@@@@@@@@@@@@@@@@@##****+++++=-:..-+*%%%%%%*++++========--+##%####%#%####%%%%%%
++**%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+=-::::::-::.:=+*%%%%%%##+%+=========--*#####*####%##%%%%%%
+%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*:::.....::..-==+%%@@@%##=============-=#############%%%%%%
+@@@@@%@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#:.........:-==+%%@@@%==============---*##%%%%%%%%%%%%@%%@
+@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*===:.....:--==+%@@@@%==============---*%%%%%%%%%%%%@@@@%@
+@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@#====-...--===*%@@@@#=============-=--=%%%%%%%%%%%%%@%%%@
+@@@@@@@@@@@@%%@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#---==+#@@@@@*+++===============+################%
+@@@@@@@@@@@%%++****#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%===+#@%%@%+=+==============-====--------:::::::
+@@@%%%@@%+#@*#*=++%%*%%@%%@@%%@@@@@@%@@@@@@@@@@@@@@@@@#=+#@@@@#+==++=+======-======:::::::::::::::::
+%%#%%+=#@@#+@#*+=++%@**%%%%%%%%%@@@@%++%@@@@@@@@@@@@@@@#+#@@@@*=+++++=+============:::::::::::::::--
+++++#%#++%@%+@#*++=*@@*+***++++=+*@@@%*=*%@@@@%%%@@@@@@@#*%@@@==+++++++============:::::::::::::::::
+++++++%%*+#@%+%+*++=#@@*==++++++==*@@@%*=-=*#@#*+%@@@@@@@*%@@%==++++++===+=========:::::::::::::::::
++++++++#%*=#@@*%++=++@@@*++=++++=++#@@@%*+===#%#*=+%@@@@@@@@@#=++++++++++=+====+==-:::::::::::::::::
++======+*%*=*@@*##+++%@@%+++++++++++#%@@%*+=-=*###+=*@@@@@@@@*=++++++++++++====+=:::::::--::::::::::
++++++*++==##+#@#*#**+%@@@%+=+++++++++*#%%%#*=-=+*##+=#@@@@@@@+=++++++++++========::--:::::::::::::-:
+==++==++#+=#+=%@*#***#@@@@#==++++++++**#%%%##+===+#*+=@@@@@@%+=+++++++++++++===+-::-=::::::-----::::
+====+====#*+*++@%%*#**@@@@%*===++++++++**#%%%#+=-=+**+#@@@@@%+=++++++++++++++===:::::::-::::::::-:::
++=========**+*+%%*#%##@@@@@%+==+++++++++***#%%%#+=-=+*#@@@@@%==+++++++++++++===-::::::::-::::::::---
+++++===++==**++%@*%%#%@@@@@@#=-=+++**+++++*+*#%%#*+===#@@@@@#=++++++****++++++=-::::::::--::::::::--
+==+++======+%+*%@#%@%@@@@@@@%*===+*****++++++**#%%**+==#@@@@#=+++++***++++++++=-:::--::::::--:::::-:
+#%%*+=++==+=***@%%%@%@@@@@@@@%+===++**+*+++++++**####*++%@@@#-++******++**+++*=:::::-:::-:::---::--:
+++#@@@#+====*+@@#@@@@@@@@@@@@@*+===+****++**+++++****#**@@@@#==++++***++******=:::::::::-::::---::--
+#+==+#@@@*===+@%@@@@@@@@@@@@@@%*+==++*****+++++++++***+*@@@@#==++++***++*******+::::::::---:-:------
++#**+==+%@%+=+@@@@@@@@@@@@@@@@@#*+=+++*****+++*+++++++**%@@@#==+++********++**+#=::::::-::::-::-----
+=++++++==+%@**@@@@@@@@@@@@@@@@@%*++=++*********+++++++**%@@@%+=++*******+**+**%*=-::::::-:-::::::---
+*+++=========%@@@@@@@@@@@@@@@@@@%*+++++*****+**++++++***#@@@%+++++********++*%*+++::::-:--:::-:::---
+%%%%#%%%%%@@@@@@@@@@@@@@@@@@@@@@%#*++++**********++++*+**%@@@++=++****+**+++***+++-:::::::-::::-----
+=========-#@@@@@@@@@@@@@@@@@@@@@@%#*++++*********+*++++**%@@@+++++*****+++++*****+-::::::::-::--:---
+</sub></sub>
+</pre>
+    </td>
+    <td width="58%" valign="middle" align="left">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=VANSH%20JAIN&fontSize=44&fontColor=FFFFFF&fontAlign=12&fontAlignY=62" alt="Vansh Jain" />
+      <p align="left">
+        &nbsp;<img src="https://img.shields.io/badge/STUDIO-JAINX-FFFFFF?style=flat-square&labelColor=0D1117&color=21262D" />
+        <img src="https://img.shields.io/badge/LOCATION-MUMBAI,_IN-FFFFFF?style=flat-square&labelColor=0D1117&color=21262D" />
+      </p>
+      <p align="left">
+        &nbsp;<img src="https://img.shields.io/badge/HACKER-161B22?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/BUILDER-161B22?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/CREATIVE_ARTIST-161B22?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/TYPIST-161B22?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/SECURITY_RESEARCHER-161B22?style=for-the-badge&logoColor=white" />
+      </p>
+      <hr/>
+      <p>
+        <sub><b>RAW ASPIRATION</b> // Systems architecture, low-latency AI infrastructure, competitive programming, and visual engineering.</sub>
+      </p>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### `04 // TELEMETRY`
+<!-- STYLIZED BOX HEADER 01: THE STACK -->
+<table width="100%">
+  <tr>
+    <th align="left">
+      <img src="https://img.shields.io/badge/01-THE_STACK_(A--Z)-FFFFFF?style=for-the-badge&labelColor=0D1117&color=21262D" alt="01 // THE STACK" />
+    </th>
+  </tr>
+  <tr>
+    <td align="left">
+      <br/>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=ae,bash,blender,c,cpp,css,express,git,github,html,js,kali,linux,nextjs,nodejs,postgres,pr,py,pytorch,react,supabase,tailwind,ts,vercel,vite,vscode&perline=13&theme=dark" alt="A-Z Stack Icons" />
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/CapCut-0D1117?style=flat-square&logo=video&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Cursor_IDE-0D1117?style=flat-square&logo=visualstudiocode&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Deepgram_Aura--2-0D1117?style=flat-square&logo=deepgram&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Deepgram_Nova--2-0D1117?style=flat-square&logo=deepgram&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/EAS_Build-0D1117?style=flat-square&logo=expo&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Expo-0D1117?style=flat-square&logo=expo&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Google_Play_Console-0D1117?style=flat-square&logo=googleplay&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Groq_LPU-0D1117?style=flat-square&logo=lightning&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/PostHog-0D1117?style=flat-square&logo=posthog&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/RevenueCat-0D1117?style=flat-square&logo=revenuecat&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/WebSockets-0D1117?style=flat-square&logo=socketdotio&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/WSL2-0D1117?style=flat-square&logo=linux&logoColor=ffffff" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="55%" align="center" valign="middle">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=vanshjainexe&show_icons=true&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-      <td width="45%" align="center" valign="middle">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshjainexe&layout=compact&theme=dark&bg_color=0D1117&title_color=ffffff&text_color=8b949e&border_color=30363d&hide_border=false&langs_count=7" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
 
----
+<!-- STYLIZED BOX HEADER 02: WHAT I'M BUILDING NOW -->
+<table width="100%">
+  <tr>
+    <th align="left">
+      <img src="https://img.shields.io/badge/02-WHAT_I'M_BUILDING_NOW-FFFFFF?style=for-the-badge&labelColor=0D1117&color=21262D" alt="02 // BUILDING NOW" />
+    </th>
+  </tr>
+  <tr>
+    <td align="left">
+      <br/>
+      <p>
+        <b>XEMO</b> &nbsp;<img src="https://img.shields.io/badge/GOOGLE_PLAY-JAINX-161B22?style=flat-square&logo=googleplay&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/PIPELINE-C%2B%2B_%2F_WEBSOCKETS_%2F_AI-161B22?style=flat-square" />
+      </p>
+      <p>
+        Real-time AI intellectual speaking and voice debate platform. Engineered for sub-second vocal sparring using persistent bi-directional WebSockets, custom C++ audio streaming logic ported from Python, Deepgram Nova-2 (STT) & Aura-2 (TTS), and Groq LPU inference. Complete with PostHog telemetry and RevenueCat monetization on Google Play.
+      </p>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- STYLIZED BOX HEADER 03: BIO & ORIGIN -->
+<table width="100%">
+  <tr>
+    <th align="left">
+      <img src="https://img.shields.io/badge/03-BIO_%26_ORIGIN-FFFFFF?style=for-the-badge&labelColor=0D1117&color=21262D" alt="03 // BIO" />
+    </th>
+  </tr>
+  <tr>
+    <td align="left">
+      <br/>
+      <p>
+        I started coding at 10, building my own version of Jarvis from scratch. Before software took over, I spent my childhood drawing 10 hours a day—completely obsessed with raw form, perspective, and visual detail—which naturally evolved into video editing, 3D motion design, and interface craft.
+      </p>
+      <p>
+        Right now, I'm doubling down on pure mathematics and competitive programming while conducting cybersecurity research, shipping consumer mobile applications, and building at the intersection of systems engineering and raw creative execution.
+      </p>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <div align="center">
   <a href="https://buymeacoffee.com/vanshjainexe">
-    <img src="https://img.shields.io/badge/SUPPORT-BUY_ME_A_COFFEE-161B22?style=for-the-badge&logo=buymeacoffee&logoColor=ffffff&border_color=30363d" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-0D1117?style=for-the-badge&logo=buymeacoffee&logoColor=FFFFFF&labelColor=161B22" alt="Buy Me A Coffee" />
   </a>
 </div>
