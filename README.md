@@ -1,18 +1,14 @@
-<table width="100%">
+<table width="100%" align="center">
   <tr>
-    <td width="48%" align="center" valign="middle">
+    <td width="42%" align="center" valign="middle">
       <img src="./portrait.svg" width="100%" alt="vanshjainexe terminal portrait" />
     </td>
-    <td width="52%" align="center" valign="middle">
+    <td width="58%" align="center" valign="middle">
       <h1 align="center">VANSH JAIN</h1>
       <p align="center"><b>MUMBAI, INDIA</b></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HACKER-DC2626?style=flat-square&labelColor=0D1117&color=DC2626" />&nbsp;
-        <img src="https://img.shields.io/badge/SYSTEMS_BUILDER-2563EB?style=flat-square&labelColor=0D1117&color=2563EB" />&nbsp;
-        <img src="https://img.shields.io/badge/CREATIVE_ARTIST-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED" /><br/>
-        <img src="https://img.shields.io/badge/TYPIST_(215_WPM)-D97706?style=flat-square&labelColor=0D1117&color=D97706" />&nbsp;
-        <img src="https://img.shields.io/badge/SECURITY_RESEARCH-DB2777?style=flat-square&labelColor=0D1117&color=DB2777" />
-      </p>
+      <div align="center">
+        <img src="./badges.svg" width="100%" alt="Hacker, Systems Builder, Creative Artist, Typist 215 WPM, Security Research" />
+      </div>
       <p align="center">────────────────────────</p>
       <p align="center">
         Systems architecture, sub-second AI voice pipelines, competitive programming, and visual engineering.
@@ -23,7 +19,7 @@
 
 <br/><br/>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <th align="center">
       <img src="https://img.shields.io/badge/01-THE_STACK_(A--Z)-1D4ED8?style=for-the-badge&labelColor=0D1117&color=1D4ED8" alt="01 // THE STACK" />
@@ -55,7 +51,7 @@
 
 <br/><br/>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <th align="center">
       <img src="https://img.shields.io/badge/02-WHAT_I'M_BUILDING_NOW-6D28D9?style=for-the-badge&labelColor=0D1117&color=6D28D9" alt="02 // BUILDING NOW" />
@@ -81,7 +77,7 @@
 
 <br/><br/>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <th align="center">
       <img src="https://img.shields.io/badge/03-MONKEYTYPE_%2F%2F_SPEED_TELEMETRY-D97706?style=for-the-badge&labelColor=0D1117&color=D97706" alt="03 // TYPING STATS" />
@@ -109,7 +105,7 @@
 
 <br/><br/>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <th align="center">
       <img src="https://img.shields.io/badge/04-AWARDS_%26_HONORS-B45309?style=for-the-badge&labelColor=0D1117&color=B45309" alt="04 // AWARDS" />
@@ -129,7 +125,7 @@
 
 <br/><br/>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <th align="center">
       <img src="https://img.shields.io/badge/05-BIO_%26_ORIGIN-047857?style=for-the-badge&labelColor=0D1117&color=047857" alt="05 // BIO" />
